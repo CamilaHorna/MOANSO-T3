@@ -1,0 +1,14 @@
+# Archivos temporales de Visual Studio
+.vs/
+**/.vs/
+
+# Archivos generados durante la compilación
+[Bb]in/
+[Oo]bj/
+**/[Bb]in/
+**/[Oo]bj/
+
+# Configuración personal de Visual Studio
+*.user
+*.suo
+*.cache

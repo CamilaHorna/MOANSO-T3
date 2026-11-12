@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CapaAccesoDatos/CapaAccesoDatos.csproj" Id="63721915-e216-4dfa-adc9-d985dc757a77" />
+  <Project Path="CapaEntidad/CapaEntidad.csproj" Id="8d7ad66f-1792-46a3-89b6-1a9173be2369" />
+  <Project Path="CapaLogica/CapaLogica.csproj" Id="c6b7d703-a5f3-4fb6-b3c0-03107d28cfef" />
+  <Project Path="SistemaGimnasio/SistemaGimnasio.csproj" Id="e99bd38b-d910-436d-9d22-cd7793c5c5f7" />
+</Solution>
